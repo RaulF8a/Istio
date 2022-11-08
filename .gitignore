@@ -1,0 +1,7 @@
+.env
+
+# Istio YAML files.
+grafana.yaml
+jaeger.yaml
+kiali.yaml
+prometheus.yaml
